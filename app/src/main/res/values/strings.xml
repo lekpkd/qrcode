@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QR Code</string>
+    <string name="history">History</string>
+    <string name="generate">Generate</string>
+    <string name="your_text">Your Text</string>
+    <string name="ok">OK</string>
+    <string name="qr_generated">QRCode Generated!</string>
+</resources>
